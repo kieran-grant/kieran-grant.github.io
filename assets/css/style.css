@@ -12,7 +12,7 @@
 body {
   background: #ffffff;
   color: #898989;
-  font-family: "Poppins", helvetica;
+  font-family: "Iosevka Web", helvetica;
   font-size: 15px;
   font-weight: 300;
   line-height: 20px;
@@ -467,7 +467,6 @@ p {
   font-size: 40px;
   font-weight: 700;
   margin-bottom: 10px;
-  text-transform: uppercase;
   color: #fff;
 }
 
